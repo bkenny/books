@@ -6,3 +6,4 @@ A list of books I've read and when I read them. Not sure why this might be inter
 * 23rd Mar, 2015 — [Jony Ive: The Genius Behind Apple's Greatest Products](http://www.amazon.co.uk/Jony-Ive-Genius-Greatest-Products-ebook/dp/B00ELXQYOI/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1427137177)
 * 30th Mar, 2015 — [Creativity Inc](http://www.amazon.co.uk/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00GUOEMA4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1427750859&sr=1-1&keywords=creativity+inc)
 * 21st Apr, 2015 — [Work for Money, Design for Love](http://www.amazon.co.uk/Work-Money-Design-Love-Frequently-ebook/dp/B009WQ41QM/ref=sr_1_1?s=books&ie=UTF8&qid=1429649664&sr=1-1&keywords=work+for+money+design+for+love)
+* 24th Apr, 2015 — [Graceful](http://www.amazon.co.uk/Graceful-Seth-Godin-ebook/dp/B0047ZFFEA/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1429992732&sr=1-1&keywords=graceful+seth+godin)
